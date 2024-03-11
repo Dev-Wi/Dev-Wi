@@ -16,8 +16,10 @@
 ---
 
 # ⚔️Projects
+## [Python Django] BattleGround Open API 활용 웹 페이지 개발  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nbac406&repo=battleGround)](https://github.com/nbac406/battleGround)
 
-## BattleGround Open API활용 웹페이지 개발
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nbac406&repo=battleGround)](https://github.com/nbac406/battleGround)
+## [Javascript Node.js] 컴퓨터 주변 기기 소셜커머스 사이트 Wepleats<br>  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=37-1st-WePleats-backend)](https://github.com/wecode-bootcamp-korea/37-1st-WePleats-backend)
+
+## [Javascript Node.js] 나만의 강의 소셜커머스 사이트 IOI<br>  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=37-2nd-IOI-backend)](https://github.com/wecode-bootcamp-korea/37-2nd-IOI-backend)
 
 </div>
