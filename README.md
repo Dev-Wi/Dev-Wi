@@ -2,6 +2,7 @@
 
 Tech Stack
 <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/nodejs-20232a.svg?style=for-the-badge&logo=nodejs&logoColor=61DAFB" />
 <!--
 **Dev-Wi/Dev-Wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
