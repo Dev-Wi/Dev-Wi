@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hello!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Hello!&fontSize=90)
 
 <!--
 **Dev-Wi/Dev-Wi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
